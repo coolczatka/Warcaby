@@ -1,0 +1,4 @@
+﻿  Gui.cpp
+c:\users\karol\source\repos\warcaby\qwe\Gui.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
+  checkers.cpp
+c:\users\karol\source\repos\warcaby\qwe\Gui.h(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML\Graphics.hpp': No such file or directory
